@@ -1,129 +1,125 @@
-[
-    {
-        "id": "1",
-        "title": "Front 1",
-        "metadescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-        "categoria": {
-            "nombre": "frontend",
-            "color": "#6BD1FF"
+{
+    "videos": [
+        {
+            "id": "1",
+            "title": "Front 1",
+            "metadescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "categoria": {
+                "nombre": "frontend",
+                "color": "#6BD1FF"
+            },
+            "img": "https://i.ytimg.com/an_webp/cfvFBAB9TIE/mqdefault_6s.webp?du=3000&sqp=CPLQkbMG&rs=AOn4CLCdRvnbiEkUrb61g3V5T98A0Ki7Ew",
+            "embedId": "https://www.youtube.com/embed/cfvFBAB9TIE"
         },
-        "img": "https://i.ytimg.com/an_webp/cfvFBAB9TIE/mqdefault_6s.webp?du=3000&sqp=CPLQkbMG&rs=AOn4CLCdRvnbiEkUrb61g3V5T98A0Ki7Ew",
-        "embedId": "https://www.youtube.com/embed/cfvFBAB9TIE"
-    },
-    {
-        "id": "2",
-        "title": "Front 2",
-        "metadescription": "Nesciunt nulla dolore porro distinctio architecto, vero reiciendis molestias quo deleniti veniam, quia reprehenderit accusamus! ",
-        "categoria": {
-            "nombre": "frontend",
-            "color": "#6BD1FF"
+        {
+            "id": "2",
+            "title": "Front 2",
+            "metadescription": "Nesciunt nulla dolore porro distinctio architecto, vero reiciendis molestias quo deleniti veniam, quia reprehenderit accusamus! ",
+            "categoria": {
+                "nombre": "frontend",
+                "color": "#6BD1FF"
+            },
+            "img": "jy0IgvV42es",
+            "embedId": "jy0IgvV42es"
         },
-        "img": "jy0IgvV42es",
-        "embedId": "jy0IgvV42es"
-    },
-    {
-        "id": "3",
-        "title": "Front 3",
-        "metadescription": "Eaque fugiat quidem, blanditiis delectus dignissimos dolorem.",
-        "categoria": {
-            "nombre": "frontend",
-            "color": "#6BD1FF"
+        {
+            "id": "3",
+            "title": "Front 3",
+            "metadescription": "Eaque fugiat quidem, blanditiis delectus dignissimos dolorem.",
+            "categoria": {
+                "nombre": "frontend",
+                "color": "#6BD1FF"
+            },
+            "img": "f8W220hkmgA",
+            "embedId": "f8W220hkmgA"
         },
-        "img": "f8W220hkmgA",
-        "embedId": "f8W220hkmgA"
-    },
-    {
-        "id": "4",
-        "title": "Front 4",
-        "metadescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-        "categoria": {
-            "nombre": "frontend",
-            "color": "#6BD1FF"
+        {
+            "id": "4",
+            "title": "Front 4",
+            "metadescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "categoria": {
+                "nombre": "frontend",
+                "color": "#6BD1FF"
+            },
+            "img": "bZ6oqJEA5K0",
+            "embedId": "bZ6oqJEA5K0"
         },
-        "img": "bZ6oqJEA5K0",
-        "embedId": "bZ6oqJEA5K0"
-    },
-    {
-        "id": "5",
-        "title": "Front 5",
-        "metadescription": "Eaque fugiat quidem, blanditiis delectus dignissimos dolorem. ❤️",
-        "categoria": {
-            "nombre": "frontend",
-            "color": "#6BD1FF"
+        {
+            "id": "5",
+            "title": "Front 5",
+            "metadescription": "Eaque fugiat quidem, blanditiis delectus dignissimos dolorem. ❤️",
+            "categoria": {
+                "nombre": "frontend",
+                "color": "#6BD1FF"
+            },
+            "img": "RwBcNPybF4Q",
+            "embedId": "RwBcNPybF4Q"
         },
-        "img": "RwBcNPybF4Q",
-        "embedId": "RwBcNPybF4Q"
-    },
-    
-    
-    {
-        "id": "6",
-        "title": "Back 1",
-        "metadescription": "Eaque fugiat quidem, blanditiis delectus dignissimos dolorem.",
-        "categoria": {
-            "nombre": "backend",
-            "color": "#6BD1FF"
+        {
+            "id": "6",
+            "title": "Back 1",
+            "metadescription": "Eaque fugiat quidem, blanditiis delectus dignissimos dolorem.",
+            "categoria": {
+                "nombre": "backend",
+                "color": "#6BD1FF"
+            },
+            "img": "f8W220hkmgA",
+            "embedId": "f8W220hkmgA"
         },
-        "img": "f8W220hkmgA",
-        "embedId": "f8W220hkmgA"
-    },
-    {
-        "id": "7",
-        "title": "Back 2",
-        "metadescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-        "categoria": {
-            "nombre": "backend",
-            "color": "#6BD1FF"
+        {
+            "id": "7",
+            "title": "Back 2",
+            "metadescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "categoria": {
+                "nombre": "backend",
+                "color": "#6BD1FF"
+            },
+            "img": "bZ6oqJEA5K0",
+            "embedId": "bZ6oqJEA5K0"
         },
-        "img": "bZ6oqJEA5K0",
-        "embedId": "bZ6oqJEA5K0"
-    },
-    {
-        "id": "8",
-        "title": "Back 3",
-        "metadescription": "Eaque fugiat quidem, blanditiis delectus dignissimos dolorem. ❤️",
-        "categoria": {
-            "nombre": "backend",
-            "color": "#6BD1FF"
+        {
+            "id": "8",
+            "title": "Back 3",
+            "metadescription": "Eaque fugiat quidem, blanditiis delectus dignissimos dolorem. ❤️",
+            "categoria": {
+                "nombre": "backend",
+                "color": "#6BD1FF"
+            },
+            "img": "RwBcNPybF4Q",
+            "embedId": "RwBcNPybF4Q"
         },
-        "img": "RwBcNPybF4Q",
-        "embedId": "RwBcNPybF4Q"
-    },
-
-
-
-    
-    {
-        "id": "9",
-        "title": "Innovación y gestión 1",
-        "metadescription": "Eaque fugiat quidem, blanditiis delectus dignissimos dolorem.",
-        "categoria": {
-            "nombre": "inovacion",
-            "color": "#6BD1FF"
+        {
+            "id": "9",
+            "title": "Innovación y gestión 1",
+            "metadescription": "Eaque fugiat quidem, blanditiis delectus dignissimos dolorem.",
+            "categoria": {
+                "nombre": "inovacion",
+                "color": "#6BD1FF"
+            },
+            "img": "f8W220hkmgA",
+            "embedId": "f8W220hkmgA"
         },
-        "img": "f8W220hkmgA",
-        "embedId": "f8W220hkmgA"
-    },
-    {
-        "id": "10",
-        "title": "Innovación y gestión 2",
-        "metadescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-        "categoria": {
-            "nombre": "inovacion",
-            "color": "#6BD1FF"
+        {
+            "id": "10",
+            "title": "Innovación y gestión 2",
+            "metadescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+            "categoria": {
+                "nombre": "inovacion",
+                "color": "#6BD1FF"
+            },
+            "img": "bZ6oqJEA5K0",
+            "embedId": "bZ6oqJEA5K0"
         },
-        "img": "bZ6oqJEA5K0",
-        "embedId": "bZ6oqJEA5K0"
-    },
-    {
-        "id": "11",
-        "title": "Innovación y gestión 3",
-        "metadescription": "Eaque fugiat quidem, blanditiis delectus dignissimos dolorem. ❤️",
-        "categoria": {
-            "nombre": "inovacion",
-            "color": "#6BD1FF"
-        },
-        "img": "RwBcNPybF4Q",
-        "embedId": "RwBcNPybF4Q"
-    }
-]
+        {
+            "id": "11",
+            "title": "Innovación y gestión 3",
+            "metadescription": "Eaque fugiat quidem, blanditiis delectus dignissimos dolorem. ❤️",
+            "categoria": {
+                "nombre": "inovacion",
+                "color": "#6BD1FF"
+            },
+            "img": "RwBcNPybF4Q",
+            "embedId": "RwBcNPybF4Q"
+        }
+    ]
+}
